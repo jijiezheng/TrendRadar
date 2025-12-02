@@ -1,5 +1,4 @@
 DeepSeek
-梁文锋
 
 AMD
 
@@ -12,22 +11,28 @@ chatgpt
 openai
 sora
 
-claude
-Anthropic
-
 ai
 !gai
 人工智能
 
 自动驾驶
 
-机器人
-
 美国
 日本
 韩国
 
-芯片
-光刻机
-
 python
+
+掌机
+开源掌机
+
+汉化游戏
+GBA
+SFC
+MD
+GB
+GBC
+FC
+NDS
+3DS
+SWITCH
